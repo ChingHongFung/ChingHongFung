@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChingHongFung
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Engineering Science at Oxford
+- 👀 I’m interested in software engineering and machine learning
+- 🌱 I’m currently learning MEng Engineering Science at Oxford
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me jacky_fung_20xx@hotmail.com
 
